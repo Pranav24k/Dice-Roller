@@ -8,9 +8,8 @@ This is a simple Dice Roller app developed as part of the Android Basics with Co
 - Simple and user-friendly interface.
 - Built using Jetpack Compose and Kotlin.
 
-## Screenshots
-
-![Dice Roller Screenshot](path/to/your/screenshot.png)
+![Screenshot 1](screenshot1.png)
+![Screenshot 2](screenshot2.png)
 
 ## Installation
 
